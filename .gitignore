@@ -1,0 +1,13 @@
+# Pycham project related files
+.idea/*
+
+# Python byte code
+*.pyc
+
+# Log files
+*.log
+
+# Local databases
+*.sqlite3
+*.sql
+*.dump
